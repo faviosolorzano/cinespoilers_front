@@ -48,3 +48,7 @@
 ![limpia](./Daniella%20Leon/docs/5.png)
 
 
+## Creacion de Componente
+
+![limpia](./Daniella%20Leon/docs/6.png)
+
